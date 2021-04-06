@@ -1,8 +1,46 @@
 {
   "users": [
-    { "id": 1, "name": "Don Ross", "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/donross.jpg" },
-    { "id": 2, "name": "Epic", "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/epic.jpg"},
-    { "id": 3, "name": "Josephie", "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/josephie.jpg"}
+    {
+     "id": 1, "name": "Don Ross",
+     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/donross.jpg",
+     "gender": "Male"
+    },
+    {
+      "id": 2, "name": "Epic",
+      "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/epic.jpg",
+      "gender": "Male"
+    },
+    { 
+     "id": 3,
+     "name": "Josephie",
+     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/josephie.jpg",
+     "gender": "Female"
+     },
+    { 
+     "id": 4,
+     "name": "Leo",
+     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/leofranklin.jpg",
+     "gender": "Male"
+     },
+     { 
+     "id": 5,
+     "name": "Loretta",
+     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/loretta.jpg",
+     "gender": "Female"
+     },
+    { 
+     "id": 6,
+     "name": "Sylia",
+     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/sylia.jpg",
+     "gender": "Female"
+     },
+    { 
+     "id": 7,
+     "name": "The dore",
+     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/thedore.jpg",
+     "gender": "Male"
+     }
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
