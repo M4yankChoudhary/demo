@@ -3,42 +3,49 @@
     {
      "id": 1, "name": "Don Ross",
      "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/donross.jpg",
-     "gender": "Male"
+     "gender": "Male",
+      "phone": "+123450"
     },
     {
       "id": 2, "name": "Epic",
       "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/epic.jpg",
-      "gender": "Male"
+      "gender": "Male",
+      "phone": "+123458"
     },
     { 
      "id": 3,
      "name": "Josephie",
      "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/josephie.jpg",
-     "gender": "Female"
+     "gender": "Female",
+      "phone": "+123457"
      },
     { 
      "id": 4,
      "name": "Leo",
      "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/leofranklin.jpg",
-     "gender": "Male"
+     "gender": "Male",
+      "phone": "+123451"
      },
      { 
      "id": 5,
      "name": "Loretta",
      "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/loretta.jpg",
-     "gender": "Female"
+     "gender": "Female",
+       "phone": "+123452"
      },
     { 
      "id": 6,
      "name": "Sylia",
      "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/sylia.jpg",
-     "gender": "Female"
+     "gender": "Female",
+      "phone": "+123453"
      },
     { 
      "id": 7,
      "name": "The dore",
      "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/thedore.jpg",
-     "gender": "Male"
+     "gender": "Male",
+      "phone": "+123454"
      }
     
   ],
