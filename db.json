@@ -1,8 +1,8 @@
 {
   "users": [
-    { "id": 1, "name": "Don Ross" },
-    { "id": 2, "name": "Epic" },
-    { "id": 3, "name": "Josephie" }
+    { "id": 1, "name": "Don Ross", "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/donross.jpg" },
+    { "id": 2, "name": "Epic", "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/epic.jpg"},
+    { "id": 3, "name": "Josephie", "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/josephie.jpg"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
