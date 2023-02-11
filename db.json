@@ -1,57 +1,33 @@
 {
-  "users": [
+  "blogs": [
     {
-     "id": 1, "name": "Don Ross",
-     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/donross.jpg",
-     "gender": "Male",
-      "phone": "+123450"
+     "id": 1,
+      "name": "Don Ross",
+     "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2020&q=80",
+      "title: "Flexbox cSS : Everything you need to know",
+      "date": "2023-02-11T13:47:52Z"
     },
     {
-      "id": 2, "name": "Epic",
-      "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/epic.jpg",
-      "gender": "Male",
-      "phone": "+123458"
+      "id": 2,
+      "name": "Epic",
+      "title:"Grid CSS make your life easier",
+      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+       "date": "2023-02-11T13:48:51Z"
     },
     { 
      "id": 3,
      "name": "Josephie",
-     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/josephie.jpg",
-     "gender": "Female",
-      "phone": "+123457"
+       "title:"3 easy way to make div center",
+     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80",
+       "date": "2023-02-11T13:47:52Z"
      },
     { 
      "id": 4,
      "name": "Leo",
-     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/leofranklin.jpg",
-     "gender": "Male",
-      "phone": "+123451"
-     },
-     { 
-     "id": 5,
-     "name": "Loretta",
-     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/loretta.jpg",
-     "gender": "Female",
-       "phone": "+123452"
-     },
-    { 
-     "id": 6,
-     "name": "Sylia",
-     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/sylia.jpg",
-     "gender": "Female",
-      "phone": "+123453"
-     },
-    { 
-     "id": 7,
-     "name": "The dore",
-     "image": "https://raw.githubusercontent.com/M4yankChoudhary/demo/master/thedore.jpg",
-     "gender": "Male",
-      "phone": "+123454"
-     }
-    
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+       "title:"Make animated light mode and dark mode toggle with CSS",
+     "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "date": "2023-02-11T13:48:51Z"
+     },    
   ],
   "profile": {
     "name": "typicode"
