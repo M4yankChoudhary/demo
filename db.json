@@ -4,30 +4,30 @@
      "id": 1,
       "name": "Don Ross",
      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2020&q=80",
-      "title: "Flexbox cSS : Everything you need to know",
+      "title": "Flexbox CSS Expert",
       "date": "2023-02-11T13:47:52Z"
     },
     {
       "id": 2,
       "name": "Epic",
-      "title:"Grid CSS make your life easier",
+      "title":"Grid CSS make your life easier",
       "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
        "date": "2023-02-11T13:48:51Z"
     },
     { 
      "id": 3,
      "name": "Josephie",
-       "title:"3 easy way to make div center",
+       "title":"3 easy way to make div center",
      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80",
        "date": "2023-02-11T13:47:52Z"
      },
     { 
      "id": 4,
      "name": "Leo",
-       "title:"Make animated light mode and dark mode toggle with CSS",
+       "title":"Make animated light mode and dark mode toggle with CSS",
      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
     "date": "2023-02-11T13:48:51Z"
-     },    
+     }    
   ],
   "profile": {
     "name": "typicode"
